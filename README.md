@@ -21,6 +21,7 @@ All the comments in the subreddit are streamed. When a comment matching a reques
  <li> Work for multiple threads simultaneously </li>
  <li> <TT>subreddit.stream</TT> and <TT>submission.comments</TT> straight up don't work sometimes when all the comments are by one user. (Hard to replicate) </li>
  <li> Improve the regular expression to add more special charaters and symbols </li>
+ <li> Error checking on API calls to avoid code termination</li>
  </ol>
   
 
