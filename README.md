@@ -22,6 +22,7 @@ All the comments in the subreddit are streamed. When a comment matching a reques
  <li> <TT>subreddit.stream</TT> and <TT>submission.comments</TT> straight up don't work sometimes when all the comments are by one user. (Hard to replicate) </li>
  <li> Improve the regular expression to add more special charaters and symbols </li>
  <li> Error checking on API calls to avoid code termination</li>
+ <li> Store playlist information on a local database so that when code is rerun, tracks are still added to their appropriate playlists</li>
  </ol>
   
 
